@@ -49,7 +49,7 @@
   "nativeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "nativeUrl": "https://play2299.atmequiz.com/start",
   "priority": "facebook",
-  "showAd": true,
+  "showAd": false,
   "toBeClicked": 1,
   "totalIntro": 5
   }
