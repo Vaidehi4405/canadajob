@@ -52,7 +52,7 @@
 "showAd": false,
 "toBeClicked": 1,
 "totalIntro": 5,
-"productKey1":"154grgr845",
-"productKey2":"1548rgreg45",
-"productKey3":"1548rgrg45"
+"productKey1":"productKey1",
+"productKey2":"productKey2",
+"productKey3":"productKey3"
 }
